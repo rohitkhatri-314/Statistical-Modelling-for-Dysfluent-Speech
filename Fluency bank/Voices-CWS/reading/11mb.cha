@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/a-00050326-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Voices-CWS|CHI|||||Target_Child|||
+@Media:	11mb, video
+@Types:	cross, reading, CWS
+*CHI:	the plumber parked his van in front of the apartment house took his tools out_of the back walked into the lobby and took the elevator to the twelfth floor . 1745_17524
+%mor:	det|the-Def-Art noun|plumber verb|park-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|van-Acc adp|in noun|front adp|of det|the-Def-Art noun|apartment noun|house verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|tool-Plur-Acc noun|outof-Acc det|the-Def-Art noun|back verb|walk-Fin-Ind-Past-S3 adp|into det|the-Def-Art noun|lobby cconj|and verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art noun|elevator-Acc adp|to det|the-Def-Art adj|twelfth-S1 noun|floor .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|3|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|12|OBJ 16|17|DET 17|18|NSUBJ 18|12|PARATAXIS 19|21|CASE 20|21|DET 21|18|OBL 22|23|CC 23|18|CONJ 24|25|DET 25|23|OBJ 26|29|CASE 27|29|DET 28|29|AMOD 29|23|OBL 30|3|PUNCT
+*CHI:	only one person looking out from an eleventh floor window <knew knew> [/] knew that he really was a detective . 18595_33964
+%mor:	adv|only num|one noun|person verb|look-Ger-S adp|out adp|from det|a-Ind-Art adj|eleventh-S1 noun|floor noun|window verb|know-Fin-Ind-Past-S3-irr sconj|that pron|he-Prs-Nom-S3 adv|really aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|detective .
+%gra:	1|2|ADVMOD 2|3|NUMMOD 3|11|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|10|CASE 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|4|OBL 11|0|ROOT 12|17|MARK 13|17|NSUBJ 14|17|ADVMOD 15|17|COP 16|17|DET 17|11|CCOMP 18|11|PUNCT
+*CHI:	Paul felt very uncomfortable about suspecting his neighbor in the apartment house as being dishonest but many peculiar things had happened recently . 35315_50684
+%com:	child pronounces peculiar as peckular . 34644_59859
+%mor:	propn|Paul verb|feel-Fin-Ind-Past-S3-irr adv|very adj|uncomfortable-S1 sconj|about verb|suspect-Part-Pres-S pron|his-Prs-Gen-S3 noun|neighbor-Acc adp|in det|the-Def-Art noun|apartment noun|house sconj|as aux|be-Part-Pres-S adj|dishonest-S1 cconj|but adj|many-S1 adj|peculiar-S1 noun|thing-Plur aux|have-Fin-Ind-Past-P3-irr verb|happen-Part-Past-S adv|recently .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|ADVMOD 4|2|XCOMP 5|6|MARK 6|2|ADVCL 7|8|NMOD-POSS 8|6|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|6|OBL 13|15|MARK 14|15|COP 15|6|ADVCL 16|21|CC 17|19|AMOD 18|19|AMOD 19|21|NSUBJ 20|21|AUX 21|2|CONJ 22|21|ADVMOD 23|2|PUNCT
+*CHI:	there was something going on that he did not understand . 60705_67842
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr pron|something-Ind-S1 verb|go-Ger-S adp|on sconj|that pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr part|not verb|understand-Inf-S .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|CCOMP 11|2|PUNCT
+*CHI:	Miss_Franklin in one eleven a@l had recently purchased a necklace made of pearls <and and> [/] and it had disappeared from her jewelery case . 73367_94945
+%mor:	propn|MissFranklin adp|in num|one num|eleven l|a-Ind-Art aux|have-Fin-Ind-Past-S3-irr adv|recently verb|purchase-Part-Past-S det|a-Ind-Art noun|necklace-Acc verb|make-Part-Past-S-irr adp|of noun|pearl-Plur cconj|and pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|disappear-Part-Past-S adp|from pron|her-Prs-Gen-S3 noun|jewelery noun|case .
+%gra:	1|8|NSUBJ 2|4|CASE 3|4|COMPOUND 4|1|NMOD 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|0|ROOT 9|10|DET 10|8|OBJ 11|10|ACL 12|13|CASE 13|11|OBL 14|17|CC 15|17|NSUBJ 16|17|AUX 17|8|CONJ 18|21|CASE 19|21|NMOD-POSS 20|21|COMPOUND 21|17|OBL 22|8|PUNCT
+*CHI:	Fred_Carson in eleventh floor had kept his expensive coin collection in a artificial book on his bookshelf . 100255_108133
+%mor:	propn|FredCarson adp|in adj|eleventh-S1 noun|floor aux|have-Fin-Ind-Past-S3-irr verb|keep-Part-Past-S-irr pron|his-Prs-Gen-S3 adj|expensive-S1 noun|coin noun|collection-Acc adp|in det|a-Ind-Art adj|artificial-S1 noun|book adp|on pron|his-Prs-Gen-S3 noun|bookshelf .
+%gra:	1|6|NSUBJ 2|4|CASE 3|4|AMOD 4|1|NMOD 5|6|AUX 6|0|ROOT 7|10|NMOD-POSS 8|10|AMOD 9|10|COMPOUND 10|6|OBJ 11|14|CASE 12|14|DET 13|14|AMOD 14|6|OBL 15|17|CASE 16|17|NMOD-POSS 17|14|NMOD 18|6|PUNCT
+*CHI:	<one day he> [/] one day he noticed that it was no longer there . 109075_115954
+%mor:	num|one noun|day pron|he-Prs-Nom-S3 verb|notice-Fin-Ind-Past-S3 sconj|that pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|no adv|long adv|there .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|NSUBJ 4|0|ROOT 5|10|MARK 6|10|NSUBJ 7|10|COP 8|9|ADVMOD 9|10|ADVMOD 10|4|CCOMP 11|4|PUNCT
+@End

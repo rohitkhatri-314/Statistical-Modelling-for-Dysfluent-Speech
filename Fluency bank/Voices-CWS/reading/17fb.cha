@@ -1,0 +1,34 @@
+@UTF8
+@PID:	11312/a-00088213-0
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant
+@ID:	eng|Voices-CWS|PAR0|||||Participant|||
+@Media:	17fb, video
+@Comment:	Batchalign 0.7.10-post.2 , ASR Engine rev
+@Types:	cross, reading, CWS
+*PAR0:	okay . 915_1415
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR0:	the [/] the plumber puck his bed in front of the apartment house . 1956_7220
+%mor:	det|the-Def-Art noun|plumber verb|puck-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|bed-Acc adp|in noun|front adp|of det|the-Def-Art noun|apartment noun|house .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|3|PUNCT
+*PAR0:	took his tools out of the back . 7681_12064
+%mor:	verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|tool-Plur-Acc adp|out adp|of det|the-Def-Art noun|back .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|7|CASE 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+*PAR0:	walked into the lobby and took the elevator to the twelfth floor . 12545_16673
+%mor:	verb|walk-Fin-Ind-Past-S1 adp|into det|the-Def-Art noun|lobby cconj|and verb|take-Fin-Ind-Past-S1-irr det|the-Def-Art noun|elevator-Acc adp|to det|the-Def-Art adj|twelfth-S1 noun|floor .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CC 6|1|CONJ 7|8|DET 8|6|OBJ 9|12|CASE 10|12|DET 11|12|AMOD 12|6|OBL 13|1|PUNCT
+*PAR0:	only one person looking out from an eleventh floor window . 16935_21664
+%mor:	adv|only num|one noun|person verb|look-Ger-S adp|out adp|from det|a-Ind-Art adj|eleventh-S1 noun|floor noun|window .
+%gra:	1|2|ADVMOD 2|3|NUMMOD 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|10|CASE 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|4|OBL 11|3|PUNCT
+*PAR0:	knew that he was really a detective paul Paul felt very uncomfortable about suspecting his neighbor in the apartment house as being dishonest but many partic peculiar [/] peculiar things had happened recently . 21855_40384
+%mor:	verb|know-Fin-Ind-Past-S3-irr sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really det|a-Ind-Art noun|detective propn|paul propn|Paul verb|feel-Fin-Ind-Past-S3-irr adv|very adj|uncomfortable-S1 sconj|about verb|suspect-Part-Pres-S pron|his-Prs-Gen-S3 noun|neighbor-Acc adp|in det|the-Def-Art noun|apartment noun|house sconj|as aux|be-Part-Pres-S adj|dishonest-S1 cconj|but adj|many-S1 adj|partic-S1 adj|peculiar-S1 noun|thing-Plur aux|have-Fin-Ind-Past-P3-irr verb|happen-Part-Past-S adv|recently .
+%gra:	1|0|ROOT 2|7|MARK 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|7|DET 7|1|CCOMP 8|10|NSUBJ 9|8|FLAT 10|7|ACL-RELCL 11|12|ADVMOD 12|10|XCOMP 13|14|MARK 14|10|ADVCL 15|16|NMOD-POSS 16|14|OBJ 17|20|CASE 18|20|DET 19|20|COMPOUND 20|14|OBL 21|23|MARK 22|23|COP 23|14|ADVCL 24|30|CC 25|28|AMOD 26|28|AMOD 27|28|AMOD 28|30|NSUBJ 29|30|AUX 30|10|CONJ 31|30|ADVMOD 32|1|PUNCT
+*PAR0:	there was something going on that he didn't understand ms Franklin in eleven A had recently purchased a necklace made of pearls . 40955_53864
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr pron|something-Ind-S1 verb|go-Ger-S adp|on sconj|that pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not verb|understand-Inf-S propn|ms propn|Franklin adp|in num|eleven propn|A aux|have-Fin-Ind-Past-S3-irr adv|recently verb|purchase-Part-Past-S det|a-Ind-Art noun|necklace-Acc verb|make-Part-Past-S-irr adp|of noun|pearl-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|10|MARK 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|3|ACL 11|18|NSUBJ 12|11|FLAT 13|15|CASE 14|15|NUMMOD 15|12|NMOD 16|18|AUX 17|18|ADVMOD 18|10|CCOMP 19|20|DET 20|18|OBJ 21|20|ACL 22|23|CASE 23|21|OBL 24|2|PUNCT
+*PAR0:	and it had di disappeared from her true louis case brad Carson in eleven F had kept his expensive coin collection in an artificial book <on his> [/] on his bookshelf one day he noticed that it was no longer . 53725_63752
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr propn|di verb|disappear-Part-Past-S adp|from pron|her-Prs-Gen-S3 adj|true-S1 propn|louis noun|case propn|brad propn|Carson adp|in num|eleven propn|F aux|have-Fin-Ind-Past-S3-irr verb|keep-Part-Past-S-irr pron|his-Prs-Gen-S3 adj|expensive-S1 noun|coin noun|collection-Acc adp|in det|a-Ind-Art adj|artificial-S1 noun|book adp|on pron|his-Prs-Gen-S3 noun|bookshelf num|one noun|day pron|he-Prs-Nom-S3 verb|notice-Fin-Ind-Past-S3 sconj|that pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|no adv|long .
+%gra:	1|17|CC 2|17|NSUBJ-OUTER 3|5|AUX 4|17|NSUBJ 5|17|CSUBJ 6|10|CASE 7|10|NMOD-POSS 8|10|AMOD 9|10|COMPOUND 10|5|OBL 11|17|NSUBJ 12|11|FLAT 13|15|CASE 14|15|NUMMOD 15|11|NMOD 16|17|AUX 17|0|ROOT 18|21|NMOD-POSS 19|21|AMOD 20|21|COMPOUND 21|17|OBJ 22|25|CASE 23|25|DET 24|25|AMOD 25|17|OBL 26|28|CASE 27|28|NMOD-POSS 28|25|NMOD 29|30|NUMMOD 30|32|OBL-UNMARKED 31|32|NSUBJ 32|17|PARATAXIS 33|37|MARK 34|37|NSUBJ 35|37|COP 36|37|ADVMOD 37|32|CCOMP 38|17|PUNCT
+@End

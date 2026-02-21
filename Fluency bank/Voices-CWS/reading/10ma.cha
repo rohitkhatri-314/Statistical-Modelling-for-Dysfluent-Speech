@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/a-00088210-0
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant
+@ID:	eng|Voices-CWS|PAR1|||||Participant|||
+@Media:	10ma, video
+@Comment:	Batchalign 0.7.10-post.2 , ASR Engine rev
+@Types:	cross, reading, CWS
+*PAR1:	the plumber parked his van in front of the apartment house . 945_7611
+%mor:	det|the-Def-Art noun|plumber verb|park-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|van-Acc adp|in noun|front adp|of det|the-Def-Art noun|apartment noun|house .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|3|PUNCT
+*PAR1:	took his tools out of the back . 8512_11274
+%mor:	verb|take-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|tool-Plur-Acc adp|out adp|of det|the-Def-Art noun|back .
+%gra:	1|0|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|7|CASE 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+*PAR1:	walked into the lobby and took the elevator to the twelfth floor . 11875_18244
+%mor:	verb|walk-Fin-Ind-Past-S1 adp|into det|the-Def-Art noun|lobby cconj|and verb|take-Fin-Ind-Past-S1-irr det|the-Def-Art noun|elevator-Acc adp|to det|the-Def-Art adj|twelfth-S1 noun|floor .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|CC 6|1|CONJ 7|8|DET 8|6|OBJ 9|12|CASE 10|12|DET 11|12|AMOD 12|6|OBL 13|1|PUNCT
+*PAR1:	only one person looking out from an eleventh floor window . 19267_24414
+%mor:	adv|only num|one noun|person verb|look-Ger-S adp|out adp|from det|a-Ind-Art adj|eleventh-S1 noun|floor noun|window .
+%gra:	1|2|ADVMOD 2|3|NUMMOD 3|0|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|10|CASE 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|4|OBL 11|3|PUNCT
+*PAR1:	knew that he was really an addicted detective Paul felt uncomfortable about suspecting his neighbor in the apartment house as being a dish dishonest but many particular things had happened recently there . 25205_37403
+%mor:	verb|know-Fin-Ind-Past-S3-irr sconj|that pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|really det|a-Ind-Art adj|addicted-S1 noun|detective propn|Paul verb|feel-Fin-Ind-Past-S3-irr adj|uncomfortable-S1 sconj|about verb|suspect-Part-Pres-S pron|his-Prs-Gen-S3 noun|neighbor-Acc adp|in det|the-Def-Art noun|apartment noun|house sconj|as aux|be-Part-Pres-S det|a-Ind-Art noun|dish adj|dishonest-S1 cconj|but adj|many-S1 adj|particular-S1 noun|thing-Plur aux|have-Fin-Ind-Past-P3-irr verb|happen-Part-Past-S adv|recently adv|there .
+%gra:	1|0|ROOT 2|8|MARK 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|DET 7|8|AMOD 8|1|CCOMP 9|10|NSUBJ 10|8|ACL-RELCL 11|10|XCOMP 12|13|MARK 13|10|ADVCL 14|15|NMOD-POSS 15|13|OBJ 16|19|CASE 17|19|DET 18|19|COMPOUND 19|13|OBL 20|24|MARK 21|24|COP 22|23|DET 23|24|OBL-UNMARKED 24|13|ADVCL 25|30|CC 26|28|AMOD 27|28|AMOD 28|30|NSUBJ 29|30|AUX 30|10|CONJ 31|30|ADVMOD 32|30|ADVMOD 33|1|PUNCT
+*PAR1:	there was something going on that he didn't un understand ms Franklin and eleven A had recently purchased a necklace made out of pearls . 51105_67674
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr pron|something-Ind-S1 verb|go-Ger-S adp|on sconj|that pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr~part|not adv|un verb|understand-Inf-S propn|ms propn|Franklin cconj|and num|eleven propn|A aux|have-Fin-Ind-Past-S3-irr adv|recently verb|purchase-Part-Past-S det|a-Ind-Art noun|necklace-Acc verb|make-Part-Past-S-irr adp|out adp|of noun|pearl-Plur .
+%gra:	1|2|EXPL 2|0|ROOT 3|2|NSUBJ 4|3|ACL 5|4|COMPOUND-PRT 6|11|MARK 7|11|NSUBJ 8|11|AUX 9|11|ADVMOD 10|11|ADVMOD 11|3|ACL 12|19|NSUBJ 13|19|NSUBJ 14|16|CC 15|16|NUMMOD 16|13|CONJ 17|19|AUX 18|19|ADVMOD 19|11|CCOMP 20|21|DET 21|19|OBJ 22|21|ACL 23|25|CASE 24|23|FIXED 25|22|OBL 26|2|PUNCT
+*PAR1:	and it had disappeared from her jewelry case fred Carson and eleventh F eleven F had kept his expensive coin collection . 69015_85654
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|disappear-Part-Past-S adp|from pron|her-Prs-Gen-S3 noun|jewelry noun|case propn|fred propn|Carson cconj|and adj|eleventh-S1 propn|F num|eleven propn|F aux|have-Fin-Ind-Past-S3-irr verb|keep-Part-Past-S-irr pron|his-Prs-Gen-S3 adj|expensive-S1 noun|coin noun|collection-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|8|CASE 6|8|NMOD-POSS 7|8|COMPOUND 8|4|OBL 9|8|APPOS 10|9|FLAT 11|13|CC 12|13|AMOD 13|9|CONJ 14|13|NUMMOD 15|13|FLAT 16|17|AUX 17|4|CONJ 18|21|NMOD-POSS 19|21|AMOD 20|21|COMPOUND 21|17|OBJ 22|4|PUNCT
+*PAR1:	and in a artifactual book on his books shelf . 87015_92086
+%mor:	cconj|and adp|in det|a-Ind-Art adj|artifactual-S1 noun|book adp|on pron|his-Prs-Gen-S3 noun|book-Plur noun|shelf .
+%gra:	1|5|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|0|ROOT 6|9|CASE 7|9|NMOD-POSS 8|9|COMPOUND 9|5|NMOD 10|5|PUNCT
+*PAR1:	one day he noticed that it was no longer there . 92067_95734
+%mor:	num|one noun|day pron|he-Prs-Nom-S3 verb|notice-Fin-Ind-Past-S3 sconj|that pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|no adv|long adv|there .
+%gra:	1|2|NUMMOD 2|4|OBL-UNMARKED 3|4|NSUBJ 4|0|ROOT 5|10|MARK 6|10|NSUBJ 7|10|COP 8|9|ADVMOD 9|10|ADVMOD 10|4|CCOMP 11|4|PUNCT
+@End

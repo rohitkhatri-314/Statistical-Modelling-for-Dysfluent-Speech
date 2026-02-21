@@ -1,0 +1,42 @@
+@UTF8
+@PID:	11312/a-00050328-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Voices-CWS|CHI|||||Target_Child|||
+@Media:	13m, video
+@Types:	cross, reading, CWS
+*CHI:	&-um Harriet_Tubman lived most of her life working to free her people . 3969_11364
+%mor:	propn|HarrietTubman verb|live-Fin-Ind-Past-S3 adj|most-Sup-S1 adp|of pron|her-Prs-Gen-S3 noun|life verb|work-Part-Pres-S part|to verb|free-Inf-S pron|her-Prs-Gen-S3 noun|person-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|2|ADVCL 8|9|MARK 9|7|ADVCL 10|11|NMOD-POSS 11|9|OBJ 12|2|PUNCT
+*CHI:	as a young slave she ran away to the North but frequently she returned to the South to help other slaves escape . 11785_19584
+%mor:	adp|as det|a-Ind-Art adj|young-S1 noun|slave pron|she-Prs-Nom-S3 verb|run-Fin-Ind-Past-S3-irr adv|away adp|to det|the-Def-Art propn|North cconj|but adv|frequently pron|she-Prs-Nom-S3 verb|return-Fin-Ind-Past-S3 adp|to det|the-Def-Art propn|South part|to verb|help-Inf-S adj|other-S1 noun|slave-Plur-Acc verb|escape-Inf-S .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|6|OBL 5|6|NSUBJ 6|0|ROOT 7|6|ADVMOD 8|10|CASE 9|10|DET 10|6|OBL 11|14|CC 12|14|ADVMOD 13|14|NSUBJ 14|6|CONJ 15|17|CASE 16|17|DET 17|14|OBL 18|19|MARK 19|14|ADVCL 20|21|AMOD 21|19|OBJ 22|19|XCOMP 23|6|PUNCT
+*CHI:	she became a famous leader [/] leader of the Underground_Railroad a secret network of households that provided food and shelter to runaway slaves . 20105_29404
+%mor:	pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|famous-S1 noun|leader adp|of det|the-Def-Art propn|UndergroundRailroad det|a-Ind-Art adj|secret-S1 noun|network adp|of noun|household-Plur pron|that-Rel verb|provide-Fin-Ind-Past-P3 noun|food-Acc cconj|and noun|shelter adp|to adj|runaway-S1 noun|slave-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|NMOD 9|11|DET 10|11|AMOD 11|5|APPOS 12|13|CASE 13|11|NMOD 14|15|NSUBJ 15|13|ACL-RELCL 16|15|OBJ 17|18|CC 18|16|CONJ 19|21|CASE 20|21|AMOD 21|15|OBL 22|2|PUNCT
+*CHI:	Harriet led groups of slaves from one point to another on the perilous journey north . 29955_35658
+%mor:	propn|Harriet verb|lead-Fin-Ind-Past-S3-irr noun|group-Plur-Acc adp|of noun|slave-Plur adp|from num|one noun|point adp|to det|another-Def-Ind adp|on det|the-Def-Art adj|perilous-S1 noun|journey noun|north .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|CASE 7|8|NUMMOD 8|2|OBL 9|10|CASE 10|2|OBL 11|15|CASE 12|15|DET 13|15|AMOD 14|15|COMPOUND 15|2|OBL 16|2|PUNCT
+*CHI:	they traveled only after nightfall hiding [/] hiding during the day in basements fields and forests . 35939_43184
+%mor:	pron|they-Prs-Nom-P3 verb|travel-Fin-Ind-Past-P3 adv|only adp|after noun|nightfall verb|hide-Part-Pres-S adp|during det|the-Def-Art noun|day adp|in noun|basement-Plur noun|field-Plur cconj|and noun|forest-Plur .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|CASE 5|2|OBL 6|2|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|12|CASE 11|12|COMPOUND 12|6|OBL 13|14|CC 14|12|CONJ 15|2|PUNCT
+*CHI:	Harriet was a master [/] master of tricks and disguises and also at one time a reward for &+f +/. 44235_51764
+%mor:	propn|Harriet aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|master adp|of noun|trick-Plur cconj|and noun|disguise-Plur cconj|and adv|also adp|at num|one noun|time det|a-Ind-Art noun|reward adp|for +/.
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|8|CC 8|6|CONJ 9|15|CC 10|15|ADVMOD 11|13|CASE 12|13|NUMMOD 13|15|OBL 14|15|DET 15|4|CONJ 16|4|PUNCT 17|4|PUNCT
+*CHI:	so also it says Harriet was a master of tricks and disguises and also at one time a reward of forty [/] forty &+for forty large clams were offered for her capture . 54045_70784
+%mor:	adv|so adv|also pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 propn|Harriet aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|master adp|of noun|trick-Plur cconj|and noun|disguise-Plur cconj|and adv|also adp|at num|one noun|time det|a-Ind-Art noun|reward adp|of num|forty num|forty adj|large-S1 noun|clam-Plur aux|be-Fin-Ind-Past-P3-irr verb|offer-Part-Past-S adp|for pron|her-Prs-Gen-S3 noun|capture .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|8|NSUBJ 6|8|COP 7|8|DET 8|4|CCOMP 9|10|CASE 10|8|NMOD 11|12|CC 12|10|CONJ 13|26|CC 14|26|ADVMOD 15|17|CASE 16|17|NUMMOD 17|26|OBL 18|19|DET 19|26|NSUBJ-PASS 20|24|CASE 21|24|NUMMOD 22|24|NUMMOD 23|24|AMOD 24|19|NMOD 25|26|AUX-PASS 26|4|CONJ 27|29|CASE 28|29|NMOD-POSS 29|26|OBL 30|4|PUNCT
+*CHI:	also known as a detective version of saying a bounty <that that> [/] that was worth forty thousand dollars . 71275_79764
+%mor:	adv|also verb|know-Part-Past-S-irr adp|as det|a-Ind-Art adj|detective-S1 noun|version sconj|of verb|say-Ger-S det|a-Ind-Art noun|bounty-Acc pron|that-Rel aux|be-Fin-Ind-Past-S3-irr adj|worth-S1 num|forty num|thousand noun|dollar-Plur .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|8|MARK 8|6|ACL 9|10|DET 10|8|OBJ 11|13|NSUBJ 12|13|COP 13|10|ACL-RELCL 14|15|COMPOUND 15|16|NUMMOD 16|13|OBL-UNMARKED 17|2|PUNCT
+*CHI:	so then finally it says her daring rescues helped hundreds of slaves escape to freedom . 80305_86853
+%mor:	adv|so adv|then adv|finally pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 verb|dare-Ger-S noun|rescue-Plur verb|help-Fin-Ind-Past-P3 noun|hundred-Plur-Acc adp|of noun|slave-Plur verb|escape-Inf-S adp|to noun|freedom .
+%gra:	1|5|ADVMOD 2|5|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|0|ROOT 6|8|NMOD-POSS 7|8|AMOD 8|9|NSUBJ 9|5|CCOMP 10|9|OBJ 11|12|CASE 12|10|NMOD 13|9|XCOMP 14|15|CASE 15|13|OBL 16|5|PUNCT
+*CHI:	as I &+th as I &+th as I think that she once said I never lost a passenger . 86974_94404
+%mor:	sconj|as pron|I-Prs-Nom-S1 sconj|as pron|I-Prs-Nom-S1 sconj|as pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 sconj|that pron|she-Prs-Nom-S3 adv|once verb|say-Fin-Ind-Past-S3-irr pron|I-Prs-Nom-S1 adv|never verb|lose-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|passenger-Acc .
+%gra:	1|7|MARK 2|7|NSUBJ 3|4|MARK 4|7|NSUBJ 5|7|MARK 6|7|NSUBJ 7|0|ROOT 8|11|MARK 9|11|NSUBJ 10|11|ADVMOD 11|7|CCOMP 12|14|NSUBJ 13|14|ADVMOD 14|11|CCOMP 15|16|DET 16|14|OBJ 17|7|PUNCT
+*CHI:	the end danuh@c !
+%mor:	det|the-Def-Art noun|end c|danuh !
+%gra:	1|3|DET 2|3|COMPOUND 3|0|ROOT 4|3|PUNCT
+@End

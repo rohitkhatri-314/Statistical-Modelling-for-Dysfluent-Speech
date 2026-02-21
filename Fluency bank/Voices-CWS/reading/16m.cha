@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/a-00031866-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Voices-CWS|CHI|||||Target_Child|||
+@Media:	16m, video
+@Comment:	was 327
+@Transcriber:	Ilana
+@Types:	cross, reading, CWS
+*CHI:	So here we are in Friuli . 7346_8461
+%mor:	adv|so adv|here pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 adp|in propn|Friuli .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|2|ADVCL 7|2|PUNCT
+*CHI:	tucked away <in a remote> [/] in a remote corner of the alpine foothills in northeastern Italy . 12205_18053
+%mor:	verb|tuck-Part-Past-S adv|away adp|in det|a-Ind-Art adj|remote-S1 noun|corner adp|of det|the-Def-Art noun|alpine noun|foothill-Plur adp|in adj|northeastern-S1 propn|Italy .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|6|CASE 4|6|DET 5|6|AMOD 6|1|OBL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|NMOD 11|13|CASE 12|13|AMOD 13|10|NMOD 14|1|PUNCT
+*CHI:	at [/] at a little restaurant . 18375_19896
+%mor:	adp|at det|a-Ind-Art adj|little-S1 noun|restaurant .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*CHI:	I hafta admit that when I travel history is not the first thing on my mind . 20498_24964
+%mor:	pron|I-Prs-Nom-S1 aux|hafta-Fin-Ind-Pres-S1 verb|admit-Inf-Pres-S sconj|that adv|when pron|I-Prs-Nom-S1 verb|travel-Fin-Ind-Pres-S1 noun|history-Acc aux|be-Fin-Ind-Pres-S3 part|not det|the-Def-Art adj|first-S1 noun|thing-Ger adp|on pron|my-Prs-Gen-S1 noun|mind .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|13|MARK 5|7|ADVMOD 6|7|NSUBJ 7|13|ADVCL 8|7|OBJ 9|13|COP 10|13|ADVMOD 11|13|DET 12|13|AMOD 13|3|CCOMP 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|3|PUNCT
+*CHI:	food [/] food and [/] and wine are . 25335_27696
+%mor:	noun|food cconj|and noun|wine aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|COP 5|1|PUNCT
+*CHI:	and that's what sold me on Friuli . 27936_31559
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 verb|sell-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 adp|on propn|Friuli .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|4|ACL-RELCL 6|5|OBJ 7|8|CASE 8|5|OBL 9|4|PUNCT
+*CHI:	it is famous as source of some of Italy's best white wines . 32820_39004
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|famous-S1 adp|as noun|source adp|of det|some-Def-Ind adp|of propn|Italy~part|s adj|good-Sup-S1 adj|white-S1 noun|wine-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|CASE 5|3|OBL 6|7|CASE 7|5|NMOD 8|13|CASE 9|13|NMOD-POSS 10|9|CASE 11|13|AMOD 12|13|AMOD 13|7|NMOD 14|3|PUNCT
+*CHI:	we went primarily in search of wines unware that we soon would make a culinary detour . 39305_45843
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adv|primarily adp|in noun|search adp|of noun|wine-Plur adj|unware-S1 sconj|that pron|we-Prs-Nom-P1 adv|soon aux|would-Fin-S verb|make-Inf-S det|a-Ind-Art adj|culinary-S1 noun|detour-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|5|CASE 5|2|OBL 6|7|CASE 7|5|NMOD 8|7|AMOD 9|13|MARK 10|13|NSUBJ 11|13|ADVMOD 12|13|AUX 13|8|CCOMP 14|16|DET 15|16|AMOD 16|13|OBJ 17|2|PUNCT
+*CHI:	occupying the [/] the extreme northeast corner of Italy Friuli's scenery ranges from rugged coastline along the eastern border to placid plains in the west and the majestic Alps in the north . 46975_61244
+%mor:	verb|occupy-Part-Pres-S det|the-Def-Art adj|extreme-S1 noun|northeast noun|corner-Acc adp|of propn|Italy propn|Friuli~part|s noun|scenery noun|range-Plur adp|from adj|rugged-S1 noun|coastline adp|along det|the-Def-Art adj|eastern-S1 noun|border adp|to adj|placid-S1 noun|plain-Plur adp|in det|the-Def-Art noun|west cconj|and det|the-Def-Art adj|majestic-S1 noun|Alps-Plur adp|in det|the-Def-Art noun|north .
+%gra:	1|0|ROOT 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|1|OBJ 6|11|CASE 7|11|NMOD-POSS 8|7|FLAT 9|7|CASE 10|11|COMPOUND 11|5|NMOD 12|14|CASE 13|14|AMOD 14|11|NMOD 15|18|CASE 16|18|DET 17|18|AMOD 18|11|NMOD 19|21|CASE 20|21|AMOD 21|18|NMOD 22|24|CASE 23|24|DET 24|21|NMOD 25|28|CC 26|28|DET 27|28|AMOD 28|21|CONJ 29|31|CASE 30|31|DET 31|28|NMOD 32|1|PUNCT
+*CHI:	where Italy butts up against Austria . 62195_64656
+%mor:	adv|where propn|Italy verb|butt-Fin-Ind-Pres-S3 adp|up adp|against propn|Austria .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|COMPOUND-PRT 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	directly to the south is Venice just a little more than a half [/] half an hour oh than more than an hour and a half away . 65257_75284
+%mor:	adv|directly adp|to det|the-Def-Art noun|south aux|be-Fin-Ind-Pres-S3 propn|Venice adv|just det|a-Ind-Art adj|little-S1 adj|more-Cmp-S1 adp|than det|a-Ind-Art det|half-Def-Ind det|a-Ind-Art noun|hour intj|oh adp|than adj|more-Cmp-S1 adp|than det|a-Ind-Art noun|hour cconj|and det|a-Ind-Art noun|half adv|away .
+%gra:	1|6|ADVMOD 2|4|CASE 3|4|DET 4|6|OBL 5|6|COP 6|0|ROOT 7|9|ADVMOD 8|9|DET 9|10|OBL-UNMARKED 10|13|ADVMOD 11|10|FIXED 12|13|DET 13|15|DET-PREDET 14|15|DET 15|6|OBL-UNMARKED 16|21|DISCOURSE 17|18|FIXED 18|21|ADVMOD 19|18|FIXED 20|21|DET 21|15|NMOD 22|25|CC 23|24|DET 24|25|OBL-UNMARKED 25|21|CONJ 26|6|PUNCT
+*CHI:	though off the beaten tourist track Friuli is hard in the path of history . 76025_83515
+%mor:	adv|though adp|off det|the-Def-Art verb|beat-Part-Past-S-irr noun|tourist noun|track propn|Friuli aux|be-Fin-Ind-Pres-S3 adj|hard-S1 adp|in det|the-Def-Art noun|path adp|of noun|history .
+%gra:	1|9|ADVMOD 2|6|CASE 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|9|OBL 7|9|NSUBJ 8|9|COP 9|0|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|CASE 14|12|NMOD 15|9|PUNCT
+*CHI:	standing at one of the major crossroads between western Europe and the east it was conquered by just about everyone who passed by . 83876_90384
+%mor:	verb|stand-Part-Pres-S adp|at num|one adp|of det|the-Def-Art adj|major-S1 noun|crossroad adp|between adj|western-S1 propn|Europe cconj|and det|the-Def-Art noun|east pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|conquer-Part-Past-S adp|by adv|just adv|about pron|everyone-Tot-S1 pron|who-Rel verb|pass-Fin-Ind-Past-S3 adp|by .
+%gra:	1|16|ADVCL 2|3|CASE 3|1|OBL 4|7|CASE 5|7|DET 6|7|AMOD 7|3|NMOD 8|10|CASE 9|10|AMOD 10|7|NMOD 11|13|CC 12|13|DET 13|10|CONJ 14|16|NSUBJ-PASS 15|16|AUX-PASS 16|0|ROOT 17|20|CASE 18|19|ADVMOD 19|20|ADVMOD 20|16|OBL-AGENT 21|22|NSUBJ 22|20|ACL-RELCL 23|22|OBL 24|16|PUNCT
+*CHI:	as a result things look different here rather than the familiar cultural overlay of most of Italy the central european influence is readily apparent in Friuli . 90925_101984
+%mor:	adp|as det|a-Ind-Art noun|result noun|thing-Plur verb|look-Fin-Ind-Pres-P3 adj|different-S1 adv|here adv|rather adp|than det|the-Def-Art adj|familiar-S1 adj|cultural-S1 noun|overlay adp|of adj|most-Sup-S1 adp|of propn|Italy det|the-Def-Art adj|central-S1 adj|European-S1 noun|influence aux|be-Fin-Ind-Pres-S3 adv|readily adj|apparent-S1 adp|in propn|Friuli .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|5|XCOMP 7|5|ADVMOD 8|13|CC 9|8|FIXED 10|13|DET 11|13|AMOD 12|13|AMOD 13|24|NSUBJ 14|15|CASE 15|13|NMOD 16|17|CASE 17|15|NMOD 18|21|DET 19|21|AMOD 20|21|AMOD 21|24|NSUBJ 22|24|COP 23|24|ADVMOD 24|5|CONJ 25|26|CASE 26|24|OBL 27|5|PUNCT
+*CHI:	the architecture tends more [/] more toward Austrian grandeur than Tuscan simplicity . 102965_111883
+%mor:	det|the-Def-Art noun|architecture verb|tend-Fin-Ind-Pres-S3 adv|more adp|toward adj|Austrian-S1 noun|grandeur adp|than adj|Tuscan-S1 noun|simplicity .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|7|CASE 6|7|AMOD 7|3|OBL 8|10|CASE 9|10|AMOD 10|7|NMOD 11|3|PUNCT
+*CHI:	here you'll find gray stone castles rather than sun drenched villas . 112415_118038
+%mor:	adv|here pron|you-Prs-Nom-S2~aux|will-Fin-S verb|find-Inf-S adj|gray-S1 noun|stone noun|castle-Plur-Acc adv|rather adp|than noun|sun verb|drench-Part-Past-S noun|villa-Plur .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|AMOD 6|7|COMPOUND 7|4|OBJ 8|12|CC 9|8|FIXED 10|11|COMPOUND 11|12|AMOD 12|7|CONJ 13|4|PUNCT
+*CHI:	the people look different too . 119760_121280
+%mor:	det|the-Def-Art noun|person-Plur verb|look-Fin-Ind-Pres-P3 adj|different-S1 adv|too .
+%gra:	1|2|DET 2|3|NSUBJ 3|0|ROOT 4|3|XCOMP 5|3|ADVMOD 6|3|PUNCT
+*CHI:	taller and blonder than southern Italians and with plenty of German and Central European surnames . 121041_127004
+%mor:	adj|tall-Cmp-S1 cconj|and adj|blond-S1 adp|than adj|southern-S1 propn|Italian-Plur cconj|and adp|with noun|plenty adp|of adj|German-S1 cconj|and adj|Central-S1 adj|European-S1 noun|surname-Plur .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|6|CASE 5|6|AMOD 6|1|OBL 7|9|CC 8|9|CASE 9|1|CONJ 10|15|CASE 11|15|AMOD 12|14|CC 13|14|AMOD 14|11|CONJ 15|9|NMOD 16|1|PUNCT
+@End

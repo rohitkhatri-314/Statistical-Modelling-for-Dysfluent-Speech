@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/a-00056739-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Voices-CWS|CHI||female|||Target_Child|||
+@Media:	506, video
+@Transcriber:	Patricia_Daniels
+@Types:	cross, reading, CWS
+*CHI:	Sweeney's the department store was having its twentieth anniversary celebration on May third and was planning an enormous sales promotion . 4985_29835
+%mor:	propn|Sweeney~part|s det|the-Def-Art noun|department noun|store aux|be-Fin-Ind-Past-S3-irr verb|have-Part-Pres-S pron|its-Prs-Gen-S3 adj|twentieth-S1 noun|anniversary noun|celebration-Acc adp|on propn|May adj|third-S1 cconj|and aux|be-Fin-Ind-Past-S3-irr verb|plan-Part-Pres-S det|a-Ind-Art adj|enormous-S1 noun|sale noun|promotion-Acc .
+%gra:	1|5|NMOD-POSS 2|1|CASE 3|5|DET 4|5|COMPOUND 5|7|NSUBJ 6|7|AUX 7|0|ROOT 8|11|NMOD-POSS 9|10|AMOD 10|11|COMPOUND 11|7|OBJ 12|13|CASE 13|7|OBL 14|13|NUMMOD 15|17|CC 16|17|AUX 17|7|CONJ 18|21|DET 19|21|AMOD 20|21|COMPOUND 21|17|OBJ 22|7|PUNCT
+*CHI:	certain sections of the store were having tremendous sales . 34715_44684
+%mor:	adj|certain-S1 noun|section-Plur adp|of det|the-Def-Art noun|store aux|be-Fin-Ind-Past-P3-irr verb|have-Part-Pres-S adj|tremendous-S1 noun|sale-Plur-Acc .
+%gra:	1|2|AMOD 2|7|NSUBJ 3|5|CASE 4|5|DET 5|2|NMOD 6|7|AUX 7|0|ROOT 8|9|AMOD 9|7|OBJ 10|7|PUNCT
+*CHI:	especially the dress department the jewelry department and the furniture department . 48705_61624
+%mor:	adv|especially det|the-Def-Art noun|dress noun|department det|the-Def-Art noun|jewelry noun|department cconj|and det|the-Def-Art noun|furniture noun|department .
+%gra:	1|4|ADVMOD 2|4|DET 3|4|COMPOUND 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|APPOS 8|11|CC 9|11|DET 10|11|COMPOUND 11|7|CONJ 12|4|PUNCT
+*CHI:	in_order_to prepare the store the workmen were moving busily around carrying lumber and sawing and hammering . 69205_82124
+%mor:	propn|inorderto verb|prepare-Fin-Imp-S det|the-Def-Art noun|store-Acc det|the-Def-Art noun|workmen-Plur aux|be-Fin-Ind-Past-P3-irr verb|move-Part-Pres-S adv|busily sconj|around verb|carry-Part-Pres-S noun|lumber-Acc cconj|and noun|sawing-Ger cconj|and verb|hammer-Part-Pres-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|8|NSUBJ 7|8|AUX 8|2|CCOMP 9|8|ADVMOD 10|11|MARK 11|8|ADVCL 12|11|OBJ 13|14|CC 14|12|CONJ 15|16|CC 16|12|CONJ 17|2|PUNCT
+*CHI:	they were creating signs displays and shelving for the products going on sale . 91685_104084
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|create-Part-Pres-S noun|sign-Plur noun|display-Plur-Acc cconj|and noun|shelving-Ger adp|for det|the-Def-Art noun|product-Plur verb|go-Ger-S adp|on noun|sale .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|7|CC 7|5|CONJ 8|10|CASE 9|10|DET 10|3|OBL 11|10|ACL 12|13|CASE 13|11|OBL 14|3|PUNCT
+*CHI:	a newspaper campaign was planned in which all the products would be featured . 107145_119844
+%mor:	det|a-Ind-Art noun|newspaper noun|campaign aux|be-Fin-Ind-Past-S3-irr verb|plan-Part-Past-S adp|in pron|which-Rel-S1 det|all-Def-Tot det|the-Def-Art noun|product-Plur aux|would-Fin-S aux|be-Inf-S verb|feature-Part-Past-S .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|0|ROOT 6|7|CASE 7|13|OBL 8|10|DET-PREDET 9|10|DET 10|13|NSUBJ-PASS 11|13|AUX 12|13|AUX-PASS 13|5|CCOMP 14|5|PUNCT
+*CHI:	the store's owners hoped that the customers would come by to celebrate the twenty years of service to the community . 130245_145641
+%mor:	det|the-Def-Art noun|store~part|s noun|owner-Plur verb|hope-Fin-Ind-Past-P3 sconj|that det|the-Def-Art noun|customer-Plur aux|would-Fin-S verb|come-Inf-S adv|by part|to verb|celebrate-Inf-S det|the-Def-Art num|twenty noun|year-Plur-Acc adp|of noun|service adp|to det|the-Def-Art noun|community .
+%gra:	1|2|DET 2|4|NMOD-POSS 3|2|CASE 4|5|NSUBJ 5|0|ROOT 6|10|MARK 7|8|DET 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|10|ADVMOD 12|13|MARK 13|10|ADVCL 14|16|DET 15|16|NUMMOD 16|13|OBJ 17|18|CASE 18|16|NMOD 19|21|CASE 20|21|DET 21|13|OBL 22|5|PUNCT
+*CHI:	and would also take advantage of the bargains offered in many departments . 156485_175164
+%mor:	cconj|and aux|would-Fin-S adv|also verb|take-Inf-S noun|advantage-Acc adp|of det|the-Def-Art noun|bargain-Plur verb|offer-Part-Past-S adp|in adj|many-S1 noun|department-Plur .
+%gra:	1|4|CC 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|8|ACL 10|12|CASE 11|12|AMOD 12|9|OBL 13|4|PUNCT
+*CHI:	they were planning to give way store prizes on each one of the seven floors . 180415_198864
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|plan-Part-Pres-S part|to verb|give-Inf-S noun|way noun|store noun|prize-Plur-Acc adp|on det|each-Def-Tot num|one adp|of det|the-Def-Art num|seven noun|floor-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|8|COMPOUND 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|15|CASE 13|15|DET 14|15|NUMMOD 15|11|NMOD 16|3|PUNCT
+@End

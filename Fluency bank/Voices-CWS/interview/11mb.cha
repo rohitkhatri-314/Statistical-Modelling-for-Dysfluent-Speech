@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/a-00050333-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, CHI Target_Child
+@ID:	eng|Voices-CWS|INV|||||Investigator|||
+@ID:	eng|Voices-CWS|CHI|||||Target_Child|||
+@Media:	11mb, video
+@Types:	cross, interview, CWS
+*INV:	alright so tell me about some things that you've done so far at the Friends conference . 1385_4702
+%mor:	intj|alright adv|so verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adp|about det|some-Def-Ind noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|do-Part-Past-S-irr adv|so adv|far adp|at det|the-Def-Art propn|Friend-Plur noun|conference .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|IOBJ 5|7|CASE 6|7|DET 7|3|OBL 8|11|OBJ 9|11|NSUBJ 10|11|AUX 11|7|ACL-RELCL 12|13|ADVMOD 13|11|ADVMOD 14|17|CASE 15|17|DET 16|17|COMPOUND 17|13|OBL 18|3|PUNCT
+*CHI:	&-um &-um well &-um well I met some new friends <and and and and and and> [/] and some familiar faces from the past years . 5145_8462
+%mor:	intj|well intj|well pron|I-Prs-Nom-S1 verb|meet-Fin-Ind-Past-S1-irr det|some-Def-Ind adj|new-S1 noun|friend-Plur-Acc cconj|and det|some-Def-Ind adj|familiar-S1 noun|face-Plur adp|from det|the-Def-Art adj|past-S1 noun|year-Plur .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|NSUBJ 4|0|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|11|CC 9|11|DET 10|11|AMOD 11|7|CONJ 12|15|CASE 13|15|DET 14|15|AMOD 15|11|NMOD 16|4|PUNCT
+*INV:	nice thank you for sharing &-um what else do you want to do while you're here at friends ? 28835_32620
+%mor:	adj|nice-S1 verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 sconj|for verb|share-Part-Pres-S pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|do-Inf-S sconj|while pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|here adp|at noun|friend-Plur ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|MARK 5|2|ADVCL 6|5|OBJ 7|6|ADVMOD 8|10|AUX 9|10|NSUBJ 10|5|CCOMP 11|12|MARK 12|10|XCOMP 13|16|MARK 14|16|NSUBJ 15|16|COP 16|12|ADVCL 17|18|CASE 18|16|OBL 19|2|PUNCT
+*CHI:	&-um &-um make new friends and have fun . 32942_38491
+%mor:	verb|make-Fin-Imp-S adj|new-S1 noun|friend-Plur-Acc cconj|and verb|have-Fin-Imp-S noun|fun-Acc .
+%gra:	1|0|ROOT 2|3|AMOD 3|1|OBJ 4|5|CC 5|1|CONJ 6|5|OBJ 7|1|PUNCT
+*CHI:	a_lot_of fun . 39193_40554
+%mor:	propn|alotof noun|fun .
+%gra:	1|2|COMPOUND 2|0|ROOT 3|2|PUNCT
+*INV:	yes &-um do you know why your family decided to come here ? 40995_44814
+%mor:	intj|yes aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S adv|why pron|your-Prs-Gen-S2 noun|family verb|decide-Fin-Ind-Past-S3 part|to verb|come-Inf-S adv|here ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|NMOD-POSS 7|8|NSUBJ 8|5|ADVCL-RELCL 9|10|MARK 10|8|XCOMP 11|10|ADVMOD 12|4|PUNCT
+*CHI:	&-um &-um &+th &-um they &+the &-um they came here just <for me> [/] for me to be with friends . 45115_60984
+%mor:	pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Past-P3-irr adv|here adv|just sconj|for pron|I-Prs-Acc-S1 part|to aux|be-Inf-S adp|with noun|friend-Plur .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|0|ROOT 4|3|ADVMOD 5|11|ADVMOD 6|11|MARK 7|11|NSUBJ 8|11|MARK 9|11|COP 10|11|CASE 11|3|ADVCL 12|3|PUNCT
+*INV:	nice &-um have you met any kids here and if so what have you guys done or talked about ? 62035_67544
+%mor:	adj|nice-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|meet-Part-Past-S-irr det|any-Def-Ind noun|kid-Plur-Acc adv|here cconj|and sconj|if adv|so pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 noun|guy-Plur verb|do-Part-Past-S-irr cconj|or verb|talk-Part-Past-S adp|about ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|15|CC 9|15|MARK 10|15|ADVMOD 11|15|OBJ 12|15|AUX 13|15|NSUBJ 14|15|NSUBJ 15|4|CONJ 16|17|CC 17|15|CONJ 18|15|OBL 19|4|PUNCT
+*CHI:	&-um &-um &-um yes I have met new kids <and and and and and> [/] and I have &-um played games with them <and and> [/] and have lunch and dinner with them . 67825_73074
+%mor:	intj|yes pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|meet-Part-Past-S-irr adj|new-S1 noun|kid-Plur-Acc cconj|and pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|play-Part-Past-S noun|game-Plur-Acc adp|with pron|they-Prs-Acc-P3 cconj|and verb|have-Fin-Ind-Pres-S1 noun|lunch-Acc cconj|and noun|dinner adp|with pron|they-Prs-Acc-P3 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|10|CC 8|10|NSUBJ 9|10|AUX 10|4|CONJ 11|10|OBJ 12|13|CASE 13|10|OBL 14|15|CC 15|10|CONJ 16|15|OBJ 17|18|CC 18|16|CONJ 19|20|CASE 20|15|OBL 21|4|PUNCT
+*INV:	that's very nice &-um so can you please tell me about your talking ? 104005_108723
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|very adj|nice-S1 adv|so aux|can-Fin-S pron|you-Prs-Nom-S2 intj|please verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about pron|your-Prs-Gen-S2 noun|talking-Ger ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|9|ADVMOD 6|9|AUX 7|9|NSUBJ 8|9|DISCOURSE 9|4|PARATAXIS 10|9|IOBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|4|PUNCT
+*CHI:	&-um &-um a &-um about my talking is &-like &-um &-like I would say &-like &-like &-um &-like something &-like kinda &-like being &-like frozen or &-like glitched out . 109455_131495
+%mor:	det|a-Ind-Art adp|about pron|my-Prs-Gen-S1 noun|talking-Ger aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|would-Fin-S verb|say-Inf-S pron|something-Ind-S1 adv|kinda aux|be-Part-Pres-S verb|freeze-Part-Past-S-irr cconj|or verb|glitch-Part-Past-S adp|out .
+%gra:	1|4|DET 2|4|CASE 3|4|NMOD-POSS 4|8|OBL 5|8|COP 6|8|NSUBJ 7|8|AUX 8|0|ROOT 9|8|OBJ 10|12|ADVMOD 11|12|AUX-PASS 12|9|ACL 13|14|CC 14|12|CONJ 15|14|COMPOUND-PRT 16|8|PUNCT
+*CHI:	kind of or think of it like a car &-like on &-like a <on on> [/] on a &-like huge long bump or something . 133825_146261
+%mor:	noun|kind adp|of cconj|or verb|think-Fin-Imp-S adp|of pron|it-Prs-Acc-S3 adp|like det|a-Ind-Art noun|car adp|on det|a-Ind-Art adp|on det|a-Ind-Art adj|huge-S1 adj|long-S1 noun|bump cconj|or pron|something-Ind-S1 .
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|CC 4|0|ROOT 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|4|OBL 10|16|CASE 11|16|DET 12|16|CASE 13|16|DET 14|16|AMOD 15|16|AMOD 16|4|OBL 17|18|CC 18|16|CONJ 19|4|PUNCT
+*INV:	thank you for sharing . 147023_148124
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|for verb|share-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MARK 4|1|ADVCL 5|1|PUNCT
+*INV:	&-um can you tell me about the times when it's easier or harder for you to talk ? 148625_153163
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about det|the-Def-Art noun|time-Plur adv|when pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-Cmp-S1 cconj|or adj|hard-Cmp-S1 sconj|for pron|you-Prs-Acc-S2 part|to verb|talk-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|CASE 6|7|DET 7|3|OBL 8|11|ADVMOD 9|11|NSUBJ 10|11|COP 11|3|ADVCL 12|13|CC 13|11|CONJ 14|17|MARK 15|17|NSUBJ 16|17|MARK 17|13|ADVCL 18|3|PUNCT
+*CHI:	&-um the time when it's easier for me to talk is when I'm &-like calm <and and> [/] and the hardest time is for me to be &-like excited and [/] and crazy . 154575_168303
+%mor:	det|the-Def-Art noun|time adv|when pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-Cmp-S1 sconj|for pron|I-Prs-Acc-S1 part|to verb|talk-Inf-S aux|be-Fin-Ind-Pres-S3 adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|calm-S1 cconj|and det|the-Def-Art adj|hard-Sup-S1 noun|time aux|be-Fin-Ind-Pres-S3 sconj|for pron|I-Prs-Acc-S1 part|to aux|be-Inf-S adj|excited-S1 cconj|and adj|crazy-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|6|ADVMOD 4|6|EXPL 5|6|COP 6|2|ACL 7|10|MARK 8|10|NSUBJ 9|10|MARK 10|6|XCOMP 11|15|COP 12|15|ADVMOD 13|15|NSUBJ 14|15|COP 15|6|ADVCL 16|25|CC 17|19|DET 18|19|AMOD 19|25|NSUBJ-OUTER 20|25|COP 21|25|MARK 22|25|NSUBJ 23|25|MARK 24|25|COP 25|15|CONJ 26|27|CC 27|25|CONJ 28|2|PUNCT
+*INV:	right &-um what have you learned about stuttering so far ? 170995_174024
+%mor:	adv|right pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|learn-Part-Past-S sconj|about verb|stutter-Part-Pres-S adv|so adv|far ?
+%gra:	1|2|ADVMOD 2|7|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|ADVCL 8|9|ADVMOD 9|7|ADVMOD 10|5|PUNCT
+*CHI:	&-um &-um I have learned that it I [/] I have learned that it actually &-um is something that most people &-like &-like most likely talk &-like kind of &-like in that way and &-like <and and and> [/] and &-like having to &-like deal with it . 174045_211325
+%mor:	pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|learn-Part-Past-S sconj|that pron|it-Prs-Nom-S3 pron|I-Prs-Nom-S1 aux|have-Fin-Ind-Pres-S1 verb|learn-Part-Past-S sconj|that pron|it-Prs-Nom-S3 adv|actually aux|be-Fin-Ind-Pres-S3 pron|something-Ind-S1 pron|that-Rel adj|most-Sup-S1 noun|person-Plur adv|most adv|likely verb|talk-Fin-Ind-Pres-P3 noun|kind adp|of adp|in det|that-Def-Dem-Sing noun|way cconj|and cconj|and verb|have-Part-Pres-S part|to verb|deal-Inf-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|8|MARK 5|8|NSUBJ 6|8|NSUBJ 7|8|AUX 8|3|CCOMP 9|13|MARK 10|13|NSUBJ 11|13|ADVMOD 12|13|COP 13|8|CCOMP 14|19|OBJ 15|16|AMOD 16|19|NSUBJ 17|18|ADVMOD 18|19|ADVMOD 19|13|ACL-RELCL 20|19|ADVMOD 21|14|CASE 22|24|CASE 23|24|DET 24|19|OBL 25|27|CC 26|27|CC 27|19|CONJ 28|29|MARK 29|27|XCOMP 30|31|CASE 31|29|OBL 32|3|PUNCT
+*INV:	thank you for sharing . 211855_212855
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|for verb|share-Part-Pres-S .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|MARK 4|1|ADVCL 5|1|PUNCT
+*INV:	and my last question for you is what would you like speech therapists to know and what could they do to help you most ? 212776_219384
+%mor:	cconj|and pron|my-Prs-Gen-S1 adj|last-S1 noun|question adp|for pron|you-Prs-Acc-S2 aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S noun|speech noun|therapist-Plur-Acc part|to verb|know-Inf-S cconj|and pron|what-Int-S1 aux|could-Fin-S pron|they-Prs-Nom-P3 verb|do-Inf-S part|to verb|help-Inf-S pron|you-Prs-Acc-S2 adj|most-Sup-S1 ?
+%gra:	1|11|CC 2|4|NMOD-POSS 3|4|AMOD 4|11|NSUBJ-OUTER 5|6|CASE 6|4|NMOD 7|11|COP 8|11|OBJ 9|11|AUX 10|11|NSUBJ 11|0|ROOT 12|13|COMPOUND 13|11|OBJ 14|15|MARK 15|11|XCOMP 16|20|CC 17|22|OBJ 18|20|AUX 19|20|NSUBJ 20|11|CONJ 21|22|MARK 22|20|ADVCL 23|22|OBJ 24|22|ADVMOD 25|11|PUNCT
+*CHI:	&-um &-um &-um &-um for speech therapists &-um &-um probably that something &-like helps me is &-like I &-like &-like contact that &-like helps me &-like speak &-like with &-like my fingers to [/] to help me &-like talk &-like fluently and fine . 220715_250325
+%mor:	adp|for noun|speech noun|therapist-Plur adv|probably sconj|that pron|something-Ind-S1 verb|help-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|contact-Fin-Ind-Pres-S1 pron|that-Rel verb|help-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 verb|speak-Inf-S adp|with pron|my-Prs-Gen-S1 noun|finger-Plur part|to verb|help-Inf-S pron|I-Prs-Acc-S1 verb|talk-Inf-S adv|fluently cconj|and adj|fine-S1 .
+%gra:	1|3|CASE 2|3|COMPOUND 3|11|OBL 4|11|ADVMOD 5|7|MARK 6|7|NSUBJ 7|3|ACL-RELCL 8|7|OBJ 9|11|COP 10|11|NSUBJ 11|0|ROOT 12|13|NSUBJ 13|11|ADVCL-RELCL 14|13|OBJ 15|13|XCOMP 16|18|CASE 17|18|NMOD-POSS 18|15|OBL 19|20|MARK 20|15|ADVCL 21|20|OBJ 22|20|XCOMP 23|22|ADVMOD 24|25|CC 25|23|CONJ 26|11|PUNCT
+*CHI:	<and and> [/] and probably &-um and probably &-like stretching &-like words &-like for you to &-like go slow like hi . 250515_265204
+%mor:	cconj|and adv|probably cconj|and adv|probably verb|stretch-Part-S noun|word-Plur-Acc sconj|for pron|you-Prs-Acc-S2 part|to verb|go-Inf-S adj|slow-S1 adp|like intj|hi .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|CC 4|5|ADVMOD 5|0|ROOT 6|5|OBJ 7|10|MARK 8|10|NSUBJ 9|10|MARK 10|5|ADVCL 11|10|XCOMP 12|13|CASE 13|5|DISCOURSE 14|5|PUNCT
+*CHI:	<and and and and and and> [/] and it is &-like &-um &-like stretching &-like putty or slime or something &-like that so . 269815_287444
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|stretch-Part-Pres-S noun|putty-Acc cconj|or noun|slime cconj|or pron|something-Ind-S1 pron|that-Rel adv|so .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|CC 7|5|CONJ 8|9|CC 9|5|CONJ 10|11|NSUBJ 11|4|ADVMOD 12|4|PUNCT
+*INV:	alright that concludes our interview thank you much for sharing . 288175_290644
+%mor:	intj|alright pron|that-Rel verb|conclude-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 noun|interview-Acc verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adj|much-S1 adp|for noun|sharing-Ger .
+%gra:	1|6|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|CCOMP 7|6|OBJ 8|6|XCOMP 9|10|CASE 10|8|OBL 11|3|PUNCT
+@End

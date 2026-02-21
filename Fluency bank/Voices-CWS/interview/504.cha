@@ -1,0 +1,169 @@
+@UTF8
+@PID:	11312/a-00056740-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, CHI Target_Child
+@ID:	eng|Voices-CWS|INV||female|||Investigator|||
+@ID:	eng|Voices-CWS|CHI||male|||Target_Child|||
+@Media:	504, video
+@Transcriber:	Carly Rosvold
+@Types:	cross, interview, CWS
+*INV:	alright so can you tell me some of the things that you've been doing or are looking forward to doing at the Friends meeting so far ? 3025_9118
+%mor:	intj|alright adv|so aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 det|some-Def-Ind adp|of det|the-Def-Art noun|thing-Plur pron|that-Rel pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 aux|be-Part-Past-S-irr verb|do-Part-Pres-S cconj|or aux|be-Fin-Ind-Pres-S2 verb|look-Part-Pres-S adv|forward sconj|to verb|do-Part-Pres-S adp|at det|the-Def-Art propn|Friend-Plur noun|meeting-Ger adv|so adv|far ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|5|IOBJ 7|5|OBJ 8|10|CASE 9|10|DET 10|7|NMOD 11|15|OBJ 12|15|NSUBJ 13|15|AUX 14|15|AUX 15|10|ACL-RELCL 16|18|CC 17|18|AUX 18|5|CONJ 19|18|ADVMOD 20|21|MARK 21|18|ADVCL 22|25|CASE 23|25|DET 24|25|COMPOUND 25|21|OBL 26|27|ADVMOD 27|21|ADVMOD 28|5|PUNCT
+*INV:	what else do you want to do while your here ? 9541_11404
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|do-Inf-S sconj|while pron|your-Prs-Gen-S2 adv|here ?
+%gra:	1|7|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|MARK 7|5|XCOMP 8|10|MARK 9|10|NMOD-POSS 10|7|ADVCL 11|5|PUNCT
+*CHI:	&-uh to make new friends . 18600_20401
+%mor:	part|to verb|make-Inf-S adj|new-S1 noun|friend-Plur-Acc .
+%gra:	1|2|MARK 2|0|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*INV:	mhm yeah I'm sure you'll make many friends . 20061_21622
+%mor:	intj|mhm intj|yeah pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sure-S1 pron|you-Prs-Nom-S2~aux|will-Fin-S verb|make-Inf-S adj|many-S1 noun|friend-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|0|ROOT 6|8|NSUBJ 7|8|AUX 8|5|CCOMP 9|10|AMOD 10|8|OBJ 11|5|PUNCT
+*INV:	is there anything else you wanna do ? 22403_23804
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|do-Inf-S ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|3|AMOD 5|6|NSUBJ 6|3|ACL-RELCL 7|8|MARK 8|6|XCOMP 9|1|PUNCT
+*CHI:	&-um learn how to not have bumpy speech again . 25495_30578
+%mor:	verb|learn-Fin-Imp-S adv|how part|to part|not verb|have-Inf-S adj|bumpy-S1 noun|speech-Acc adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|MARK 4|5|ADVMOD 5|2|ACL 6|7|AMOD 7|5|OBJ 8|5|ADVMOD 9|1|PUNCT
+*INV:	yeah you want to talk to people about your speech ? 30178_31759
+%mor:	intj|yeah pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|talk-Inf-S adp|to noun|person-Plur adp|about pron|your-Prs-Gen-S2 noun|speech ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|7|CASE 7|5|OBL 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|3|PUNCT
+*CHI:	&=nods .
+*INV:	that's always fun . 32820_33760
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|always adj|fun-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	and this is the perfect place to do it . 33700_35281
+%mor:	cconj|and pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|perfect-S1 noun|place part|to verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|8|MARK 8|6|ACL 9|8|OBJ 10|6|PUNCT
+*INV:	I'm gonna ask you a second question . 36062_37522
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S~part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art adj|second-S1 noun|question-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|9|DET 8|9|AMOD 9|5|OBJ 10|3|PUNCT
+*INV:	do you know why your family decided to come here ? 37903_40344
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S adv|why pron|your-Prs-Gen-S2 noun|family verb|decide-Fin-Ind-Past-S3 part|to verb|come-Inf-S adv|here ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|NMOD-POSS 6|7|NSUBJ 7|4|ADVCL-RELCL 8|9|MARK 9|7|XCOMP 10|9|ADVMOD 11|3|PUNCT
+*CHI:	&-uh for the bumpy speech thing . 48104_49746
+%mor:	adp|for det|the-Def-Art adj|bumpy-S1 noun|speech noun|thing-Ger .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|0|ROOT 6|5|PUNCT
+*INV:	mhm yeah this is the place for it . 49386_52971
+%mor:	intj|mhm intj|yeah pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|place adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|COP 5|6|DET 6|0|ROOT 7|8|CASE 8|6|NMOD 9|6|PUNCT
+*INV:	lots_of people here have bumpy speech . 53332_55154
+%mor:	noun|lotsof noun|person-Plur adv|here verb|have-Fin-Ind-Pres-P3 adj|bumpy-S1 noun|speech-Acc .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|2|ADVMOD 4|0|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+*INV:	number three . 56785_57765
+%mor:	noun|number num|three .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*INV:	have you met any kids here and what have you done slash talk about with those people ? 58846_62869
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|meet-Part-Past-S-irr det|any-Def-Ind noun|kid-Plur-Acc adv|here cconj|and pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Past-S-irr noun|slash-Acc verb|talk-Inf-S adp|about adp|with det|that-Def-Dem-Plur noun|person-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|11|CC 8|13|OBJ 9|11|AUX 10|11|NSUBJ 11|3|CONJ 12|11|OBJ 13|11|XCOMP 14|8|CASE 15|17|CASE 16|17|DET 17|13|OBL 18|3|PUNCT
+*CHI:	&-uh we drew pictures and played games . 64070_69754
+%mor:	pron|we-Prs-Nom-P1 verb|draw-Fin-Ind-Past-P1-irr noun|picture-Plur-Acc cconj|and verb|play-Fin-Ind-Past-P1 noun|game-Plur-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CC 5|2|CONJ 6|5|OBJ 7|2|PUNCT
+*INV:	that's fun . 71455_72215
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fun-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	number four . 73999_74940
+%mor:	noun|number num|four .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*INV:	&-uh can you tell me about your talking ? 75601_77183
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about pron|your-Prs-Gen-S2 noun|talking-Ger ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*CHI:	&-uh sometimes it's good and sometimes it's not good . 77124_83934
+%mor:	adv|sometimes pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 cconj|and adv|sometimes pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|good-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|0|ROOT 5|10|CC 6|10|ADVMOD 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|4|CONJ 11|4|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	number five . 86985_87867
+%mor:	noun|number num|five .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*INV:	can you tell me about the times it's easier or harder to talk ? 87989_91844
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about det|the-Def-Art noun|time-Plur pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-Cmp-S1 cconj|or adj|hard-Cmp-S1 part|to verb|talk-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|NSUBJ 9|10|COP 10|7|ACL-RELCL 11|12|CC 12|10|CONJ 13|14|MARK 14|12|ADVCL 15|3|PUNCT
+*CHI:	&-um talking to not strangers I talk a bit better . 94845_103643
+%mor:	verb|talk-Part-Pres-S adp|to part|not noun|stranger-Plur pron|I-Prs-Nom-S1 verb|talk-Fin-Ind-Pres-S1 det|a-Ind-Art noun|bit adj|good-Cmp-S1 .
+%gra:	1|6|ADVCL 2|4|CASE 3|4|ADVMOD 4|1|OBL 5|6|NSUBJ 6|0|ROOT 7|8|DET 8|9|OBL-UNMARKED 9|6|XCOMP 10|6|PUNCT
+*CHI:	and sometimes when I talk to strangers I'm nervous . 106205_111131
+%mor:	cconj|and adv|sometimes adv|when pron|I-Prs-Nom-S1 verb|talk-Fin-Ind-Pres-S1 adp|to noun|stranger-Plur pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|nervous-S1 .
+%gra:	1|10|CC 2|10|ADVMOD 3|5|ADVMOD 4|5|NSUBJ 5|10|ADVCL 6|7|CASE 7|5|OBL 8|10|NSUBJ 9|10|COP 10|0|ROOT 11|10|PUNCT
+*CHI:	and it makes my speech bumpy . 111272_113475
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|speech-Acc adj|bumpy-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*INV:	mhm yeah that you for sharing . 113435_116399
+%mor:	intj|mhm intj|yeah sconj|that pron|you-Prs-Acc-S2 adp|for noun|sharing-Ger .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|MARK 4|0|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+*INV:	number six . 116500_117380
+%mor:	noun|number num|six .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*INV:	what have you learned about stuttering ? 118243_119564
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|learn-Part-Past-S adp|about noun|stutter-Ger ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	&-uh that's okay to have it . 127394_130238
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 part|to verb|have-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*INV:	mhm (.) that's a big one . 129998_130939
+%mor:	intj|mhm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|one .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|0|ROOT 7|6|PUNCT
+*INV:	number seven . 130719_131600
+%mor:	noun|number num|seven .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*INV:	this is the last question . 131500_132722
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|last-S1 noun|question .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|0|ROOT 6|5|PUNCT
+*INV:	have you had speech therapy ? 133223_134344
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Part-Past-S-irr noun|speech noun|therapy-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*INV:	and is there anything you want to say to people who want to become a speech therapist and how they could help you the most ? 135005_141235
+%mor:	cconj|and verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|say-Inf-S adp|to noun|person-Plur pron|who-Rel verb|want-Fin-Ind-Pres-P3 part|to verb|become-Inf-S det|a-Ind-Art noun|speech noun|therapist cconj|and adv|how pron|they-Prs-Nom-P3 aux|could-Fin-S verb|help-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art adj|most-Sup-S1 ?
+%gra:	1|2|CC 2|0|ROOT 3|2|EXPL 4|2|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|MARK 8|6|XCOMP 9|10|CASE 10|8|OBL 11|12|NSUBJ 12|10|ACL-RELCL 13|14|MARK 14|12|XCOMP 15|17|DET 16|17|COMPOUND 17|14|XCOMP 18|22|CC 19|22|ADVMOD 20|22|NSUBJ 21|22|AUX 22|14|CONJ 23|22|OBJ 24|25|DET 25|22|OBJ 26|2|PUNCT
+*CHI:	&-uh I don't know . 141556_142357
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*INV:	mhm .
+%mor:	intj|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	yeah so have you had speech therapy ? 148995_150756
+%mor:	intj|yeah adv|so aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Part-Past-S-irr noun|speech noun|therapy-Acc ?
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|7|COMPOUND 7|5|OBJ 8|5|PUNCT
+*CHI:	yeah . 150576_151076
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	&~mm you have . 151476_152097
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	&-uh how long have you been in speech therapy ? 153018_156079
+%mor:	adv|how adv|long aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|be-Part-Past-S-irr adp|in noun|speech noun|therapy ?
+%gra:	1|2|ADVMOD 2|8|ADVMOD 3|8|AUX 4|8|NSUBJ 5|8|COP 6|8|CASE 7|8|COMPOUND 8|0|ROOT 9|8|PUNCT
+*CHI:	three years . 156240_157040
+%mor:	num|three noun|year-Plur .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|2|PUNCT
+*INV:	three years . 157481_158161
+%mor:	num|three noun|year-Plur .
+%gra:	1|2|NUMMOD 2|0|ROOT 3|2|PUNCT
+*INV:	great so what are how do you feel about speech therapy ? 158982_161483
+%mor:	adj|great-S1 adv|so pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 adv|how aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|feel-Inf-S adp|about noun|speech noun|therapy ?
+%gra:	1|0|ROOT 2|8|ADVMOD 3|8|NSUBJ-OUTER 4|8|COP 5|8|ADVMOD 6|8|AUX 7|8|NSUBJ 8|1|PARATAXIS 9|11|CASE 10|11|COMPOUND 11|8|OBL 12|1|PUNCT
+*INV:	do you like it or no ? 161324_162824
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S pron|it-Prs-Acc-S3 cconj|or intj|no ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|CC 6|3|DISCOURSE 7|3|PUNCT
+*CHI:	&=nods .
+*INV:	you like it ? 163565_164366
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	that's good . 164226_164967
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|0|ROOT 4|3|PUNCT
+*INV:	and what do you think that your speech therapist does that you really like ? 165730_170841
+%mor:	cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S pron|that-Rel pron|your-Prs-Gen-S2 noun|speech noun|therapist verb|do-Fin-Ind-Pres-S3 pron|that-Rel pron|you-Prs-Nom-S2 adv|really verb|like-Fin-Ind-Pres-S2 ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|0|ROOT 6|10|OBJ 7|9|NMOD-POSS 8|9|COMPOUND 9|10|NSUBJ 10|5|CCOMP 11|14|OBJ 12|14|NSUBJ 13|14|ADVMOD 14|10|CCOMP 15|5|PUNCT
+*INV:	is there anything ? 170722_171483
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 ?
+%gra:	1|0|ROOT 2|1|EXPL 3|1|NSUBJ 4|1|PUNCT
+*CHI:	&-um sometimes she plays games to with bumpy speech . 172865_179050
+%mor:	adv|sometimes pron|she-Prs-Nom-S3 verb|play-Fin-Ind-Pres-S3 noun|game-Plur-Acc adp|to adp|with adj|bumpy-S1 noun|speech .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|8|CASE 6|8|CASE 7|8|AMOD 8|3|OBL 9|3|PUNCT
+*CHI:	that's like a game where you do like bumpy speech stuff . 179030_184134
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|game adv|where pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Pres-S2 intj|like adj|bumpy-S1 noun|speech noun|stuff-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|0|ROOT 6|8|ADVMOD 7|8|NSUBJ 8|5|ACL-RELCL 9|12|DISCOURSE 10|12|AMOD 11|12|COMPOUND 12|8|OBJ 13|5|PUNCT
+@End

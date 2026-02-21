@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/a-00088215-0
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, PAR Participant
+@ID:	eng|Voices-CWS|INV|||||Investigator|||
+@ID:	eng|Voices-CWS|PAR|||||Participant|||
+@Media:	10mb, video
+@Comment:	Batchalign 0.7.9.post.1 , ASR Engine rev
+@Types:	cross, interview, CWS
+*INV:	all right . 745_1325
+%mor:	det|all-Def-Tot adj|right-S1 .
+%gra:	1|2|DET 2|0|ROOT 3|2|PUNCT
+*INV:	so we're gonna ask you a few questions first . 1185_3970
+%mor:	adv|so pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S~part|to verb|ask-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art adj|few-S1 noun|question-Plur-Acc adv|first .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|MARK 6|4|XCOMP 7|6|IOBJ 8|10|DET 9|10|AMOD 10|6|OBJ 11|6|ADVMOD 12|4|PUNCT
+*INV:	can you tell me about some things you've been doing at the friends meeting so far . 4372_8399
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about det|some-Def-Ind noun|thing-Plur pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 aux|be-Part-Past-S-irr verb|do-Part-Pres-S adp|at det|the-Def-Art noun|friend-Plur noun|meeting-Ger adv|so adv|far .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|IOBJ 5|7|CASE 6|7|DET 7|3|OBL 8|11|NSUBJ 9|11|AUX 10|11|AUX 11|7|ACL-RELCL 12|15|CASE 13|15|DET 14|15|COMPOUND 15|11|OBL 16|17|ADVMOD 17|11|ADVMOD 18|3|PUNCT
+*INV:	and what else you want to do while you're still here . 8780_11204
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|do-Inf-S sconj|while pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|still adv|here .
+%gra:	1|2|CC 2|0|ROOT 3|2|AMOD 4|5|NSUBJ 5|2|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|7|ADVCL 13|2|PUNCT
+*PAR:	well &-um &-um so I mean played a ton of games . 11755_20168
+%mor:	intj|well adv|so pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 verb|play-Part-Past-S det|a-Ind-Art noun|ton-Acc adp|of noun|game-Plur .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|4|NSUBJ 4|5|PARATAXIS 5|0|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*PAR:	and I drew a ton of stuff . 21452_23414
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|draw-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|ton-Acc adp|of noun|stuff .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+*PAR:	but I mean &-um I still want to &-um honestly &-um I just wanna do like the same things that we've been doing because it's been really fun mhm . 25196_35744
+%mor:	cconj|but pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 adv|still verb|want-Fin-Ind-Pres-S1 part|to adv|honestly pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1~part|to verb|do-Inf-S intj|like det|the-Def-Art adj|same-S1 noun|thing-Plur-Acc pron|that-Rel pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 aux|be-Part-Past-S-irr verb|do-Part-Pres-S sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr adv|really adj|fun-S1 intj|mhm .
+%gra:	1|6|CC 2|3|NSUBJ 3|6|PARATAXIS 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|6|XCOMP 8|6|ADVMOD 9|11|NSUBJ 10|11|ADVMOD 11|6|CCOMP 12|13|MARK 13|11|XCOMP 14|17|DISCOURSE 15|17|DET 16|17|AMOD 17|13|OBJ 18|22|OBJ 19|22|NSUBJ 20|22|AUX 21|22|AUX 22|17|ACL-RELCL 23|28|MARK 24|28|NSUBJ 25|28|AUX 26|28|COP 27|28|ADVMOD 28|13|ADVCL 29|28|DISCOURSE 30|6|PUNCT
+*INV:	yep nice alright . 36445_38068
+%mor:	intj|yep adj|nice-S1 intj|alright .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*INV:	that sounds like a lot of fun okay . 39251_41214
+%mor:	pron|that-Dem verb|sound-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|lot adp|of noun|fun adj|okay-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|CASE 7|8|COMPOUND 8|5|NMOD 9|2|PUNCT
+*INV:	here's our next question . 41435_42596
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 adj|next-S1 noun|question .
+%gra:	1|0|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*INV:	do you know why your family decided to come to friends this year . 43559_46544
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S adv|why pron|your-Prs-Gen-S2 noun|family verb|decide-Fin-Ind-Past-S3 part|to verb|come-Inf-S adp|to noun|friend-Plur det|this-Def-Dem-Sing noun|year .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|3|OBJ 5|6|NMOD-POSS 6|7|NSUBJ 7|4|ADVCL-RELCL 8|9|MARK 9|7|XCOMP 10|11|CASE 11|9|OBL 12|13|DET 13|9|OBL-UNMARKED 14|3|PUNCT
+*PAR:	well it just sounded like &-um &-um like fun and &-um &-um a good experience to like meet new people who started like me . 47115_58064
+%mor:	intj|well pron|it-Prs-Nom-S3 adv|just verb|sound-Fin-Ind-Past-S3 adp|like intj|like noun|fun cconj|and det|a-Ind-Art adj|good-S1 noun|experience part|to intj|like verb|meet-Inf-S adj|new-S1 noun|person-Plur-Acc pron|who-Rel verb|start-Fin-Ind-Past-P3 adp|like pron|I-Prs-Acc-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|7|CASE 6|7|DISCOURSE 7|4|OBL 8|11|CC 9|11|DET 10|11|AMOD 11|7|CONJ 12|14|MARK 13|14|DISCOURSE 14|11|ACL 15|16|AMOD 16|14|OBJ 17|18|NSUBJ 18|16|ACL-RELCL 19|20|CASE 20|18|OBL 21|4|PUNCT
+*INV:	definitely this is the place for it yep okay . 59405_63308
+%mor:	adv|definitely pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|place adp|for pron|it-Prs-Acc-S3 intj|yep intj|okay .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|DET 5|0|ROOT 6|7|CASE 7|5|NMOD 8|5|DISCOURSE 9|5|DISCOURSE 10|5|PUNCT
+*INV:	my third question is . 63609_65550
+%mor:	pron|my-Prs-Gen-S1 adj|third-S1 noun|question aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	have you met any other kids here . 65871_67672
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|meet-Part-Past-S-irr det|any-Def-Ind adj|other-S1 noun|kid-Plur-Acc adv|here .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*INV:	your age . 67372_68072
+%mor:	pron|your-Prs-Gen-S2 noun|age .
+%gra:	1|2|NMOD-POSS 2|0|ROOT 3|2|PUNCT
+*INV:	and what have you . 67913_68953
+%mor:	cconj|and pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 .
+%gra:	1|2|CC 2|0|ROOT 3|2|AUX 4|3|NSUBJ 5|2|PUNCT
+*PAR:	done or talked about . 69014_70094
+%mor:	verb|do-Part-Past-S-irr cconj|or verb|talk-Fin-Ind-Past-S3 adp|about .
+%gra:	1|0|ROOT 2|3|CC 3|1|CONJ 4|1|OBL 5|1|PUNCT
+*PAR:	well &-um &-um I've met this kid named Henry and &-um and I like talking sports with them yeah . 70545_83363
+%mor:	intj|well pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|meet-Part-Past-S-irr det|this-Def-Dem-Sing noun|kid-Acc verb|name-Part-Past-S propn|Henry cconj|and cconj|and pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 verb|talk-Ger-S noun|sport-Plur-Acc adp|with pron|they-Prs-Acc-P3 intj|yeah .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|ACL 8|7|XCOMP 9|12|CC 10|12|CC 11|12|NSUBJ 12|4|CONJ 13|12|XCOMP 14|13|OBJ 15|16|CASE 16|13|OBL 17|4|DISCOURSE 18|4|PUNCT
+*INV:	yeah [/] yeah . 82983_84084
+%mor:	intj|yeah .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	those are cool things . 85035_86616
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|cool-S1 noun|thing-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*INV:	especially with the baseball game happening around okay . 86436_89980
+%mor:	adv|especially sconj|with det|the-Def-Art noun|baseball noun|game verb|happen-Part-Pres-S adp|around intj|okay .
+%gra:	1|6|ADVMOD 2|6|MARK 3|5|DET 4|5|COMPOUND 5|6|NSUBJ 6|0|ROOT 7|8|CASE 8|6|DISCOURSE 9|6|PUNCT
+*INV:	our next question is can you tell me about your talking . 90161_93364
+%mor:	pron|our-Prs-Gen-P1 adj|next-S1 noun|question aux|be-Fin-Ind-Pres-S3 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about pron|your-Prs-Gen-S2 noun|talking-Ger .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|7|NSUBJ-OUTER 4|7|COP 5|7|AUX 6|7|NSUBJ 7|0|ROOT 8|7|IOBJ 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|7|PUNCT
+*PAR:	I mean &-um it's like I mean it's like bumpy speech and like . 94465_104124
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 sconj|like pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like adj|bumpy-S1 noun|speech cconj|and adj|like-S1 .
+%gra:	1|2|NSUBJ 2|12|PARATAXIS 3|4|NSUBJ 4|12|COP 5|12|MARK 6|7|NSUBJ 7|12|PARATAXIS 8|12|NSUBJ 9|12|COP 10|12|CASE 11|12|AMOD 12|0|ROOT 13|14|CC 14|12|CONJ 15|12|PUNCT
+*PAR:	and then sometimes it's like if there's like locks blocking your door then you have to just like pull through kind mhm . 105805_110792
+%mor:	cconj|and adv|then adv|sometimes pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like sconj|if pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 intj|like noun|lock-Plur verb|block-Ger-S pron|your-Prs-Gen-S2 noun|door-Acc adv|then pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to adv|just intj|like verb|pull-Inf-S adp|through noun|kind intj|mhm .
+%gra:	1|17|CC 2|17|ADVMOD 3|17|ADVMOD 4|5|NSUBJ 5|17|COP 6|5|COMPOUND-PRT 7|9|MARK 8|9|EXPL 9|17|ADVCL 10|11|DISCOURSE 11|9|NSUBJ 12|9|CSUBJ 13|14|NMOD-POSS 14|12|OBJ 15|17|ADVMOD 16|17|NSUBJ 17|0|ROOT 18|21|MARK 19|21|ADVMOD 20|21|DISCOURSE 21|17|XCOMP 22|21|ADVMOD 23|21|OBL 24|21|OBL 25|17|PUNCT
+*INV:	I like that all right . 110372_111453
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|that-Dem det|all-Def-Tot adv|right .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+*INV:	here's our next question . 111073_117802
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 adj|next-S1 noun|question .
+%gra:	1|0|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*INV:	we got three more okay . 117663_118924
+%mor:	pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1-irr num|three adj|more-Cmp-S1 adj|okay-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|NUMMOD 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*INV:	so can you tell me about times when it's easier and harder to talk . 119505_123169
+%mor:	adv|so aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|I-Prs-Acc-S1 adp|about noun|time-Plur adv|when pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|easy-Cmp-S1 cconj|and adj|hard-Cmp-S1 part|to verb|talk-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|4|IOBJ 6|7|CASE 7|4|OBL 8|11|ADVMOD 9|11|NSUBJ 10|11|COP 11|4|ADVCL 12|13|CC 13|11|CONJ 14|15|MARK 15|11|ADVCL 16|4|PUNCT
+*PAR:	I just feel like when I'm not in like a huge like [/] &-um like &-um group . 123891_131722
+%mor:	pron|I-Prs-Nom-S1 adv|just verb|feel-Fin-Ind-Pres-S1 adp|like adv|when pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adp|in intj|like det|a-Ind-Art adj|huge-S1 adj|like-S1 noun|group .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|COMPOUND-PRT 5|14|ADVMOD 6|14|NSUBJ 7|14|COP 8|14|ADVMOD 9|14|CASE 10|14|DISCOURSE 11|14|DET 12|14|AMOD 13|14|AMOD 14|3|ADVCL 15|3|PUNCT
+*PAR:	and I'm just not thinking about it . 131622_133444
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just part|not verb|think-Part-Pres-S adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|0|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*PAR:	it's &-um it's like more easier to talk . 134575_137097
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like adv|more adj|easy-Cmp-S1 part|to verb|talk-Inf-S .
+%gra:	1|7|NSUBJ-OUTER 2|7|REPARANDUM 3|7|NSUBJ 4|7|COP 5|7|DISCOURSE 6|7|ADVMOD 7|0|ROOT 8|9|MARK 9|7|XCOMP 10|7|PUNCT
+*INV:	mhm yeah . 140722_141322
+%mor:	intj|mhm intj|yeah .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*INV:	what have you learned about stuttering . 140902_142664
+%mor:	pron|what-Int-S1 aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|learn-Part-Past-S adp|about noun|stutter-Ger .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*PAR:	well I mean I've learned that it's like really not that bad to stutter . 143695_153161
+%mor:	intj|well pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|learn-Part-Past-S sconj|that pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 intj|like adv|really part|not adv|that adj|bad-S1 part|to verb|stutter-Inf-S .
+%gra:	1|6|DISCOURSE 2|3|NSUBJ 3|6|PARATAXIS 4|6|NSUBJ 5|6|AUX 6|0|ROOT 7|14|MARK 8|14|NSUBJ-OUTER 9|14|COP 10|14|DISCOURSE 11|14|ADVMOD 12|14|ADVMOD 13|14|ADVMOD 14|6|CCOMP 15|16|MARK 16|14|ADVCL 17|6|PUNCT
+*PAR:	like it's just cool to stutter like it's different . 153701_158744
+%mor:	sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adj|cool-S1 part|to verb|stutter-Inf-S sconj|like pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|different-S1 .
+%gra:	1|5|MARK 2|5|EXPL 3|5|COP 4|5|ADVMOD 5|0|ROOT 6|7|MARK 7|5|CSUBJ 8|11|MARK 9|11|NSUBJ 10|11|COP 11|7|ADVCL 12|5|PUNCT
+*INV:	I like that message . 159925_160886
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|message-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	here's our last question . 161629_162730
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|our-Prs-Gen-P1 adj|last-S1 noun|question .
+%gra:	1|0|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*PAR:	okay . 162952_163452
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	have you had this is kind of a two-parter . 163975_165838
+%mor:	aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Part-Past-S-irr pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|kind adp|of det|a-Ind-Art noun|two–parter .
+%gra:	1|3|AUX 2|3|NSUBJ 3|0|ROOT 4|9|NSUBJ 5|9|COP 6|9|ADVMOD 7|6|FIXED 8|9|DET 9|3|CCOMP 10|3|PUNCT
+*PAR:	okay . 166541_167041
+%mor:	intj|okay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	so have you had speech therapy . 166722_168184
+%mor:	adv|so aux|have-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Part-Past-S-irr noun|speech noun|therapy-Acc .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|0|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|PUNCT
+*INV:	and is there anything you wanna say to people who wanna become speech therapists about how they can help you most . 169185_175216
+%mor:	cconj|and verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|anything-Ind-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2~part|to verb|say-Inf-S adp|to noun|person-Plur pron|who-Rel verb|want-Fin-Ind-Pres-P3~part|to verb|become-Inf-S noun|speech noun|therapist-Plur adp|about adv|how pron|they-Prs-Nom-P3 aux|can-Fin-S verb|help-Inf-S pron|you-Prs-Acc-S2 adj|most-Sup-S1 .
+%gra:	1|2|CC 2|0|ROOT 3|2|EXPL 4|2|NSUBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|MARK 8|6|XCOMP 9|10|CASE 10|8|OBL 11|12|NSUBJ 12|10|ACL-RELCL 13|14|MARK 14|12|XCOMP 15|16|COMPOUND 16|14|XCOMP 17|18|CASE 18|16|OBL 19|21|NSUBJ 20|21|AUX 21|18|ADVCL-RELCL 22|21|OBJ 23|21|ADVMOD 24|2|PUNCT
+*PAR:	when I do have a speech therapist . 176099_179164
+%mor:	adv|when pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 verb|have-Inf-S det|a-Ind-Art noun|speech noun|therapist-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*PAR:	and &-um and then I just wanna tell the people like I'm becoming a speech therapist . 180825_189798
+%mor:	cconj|and cconj|and adv|then pron|I-Prs-Nom-S1 adv|just verb|want-Fin-Ind-Pres-S1~part|to verb|tell-Inf-S det|the-Def-Art noun|person-Plur sconj|like pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|become-Part-Pres-S det|a-Ind-Art noun|speech noun|therapist .
+%gra:	1|6|CC 2|6|CC 3|6|ADVMOD 4|6|NSUBJ 5|6|ADVMOD 6|0|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|IOBJ 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|8|ADVCL 15|17|DET 16|17|COMPOUND 17|14|XCOMP 18|6|PUNCT
+*PAR:	like &-um just let them talk . 189819_193564
+%mor:	intj|like adv|just verb|let-Fin-Imp-S pron|they-Prs-Acc-P3 verb|talk-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*PAR:	and just like don't feel in for them . 195655_197438
+%mor:	cconj|and adv|just intj|like aux|do-Fin-Imp-S~part|not verb|feel-Fin-Imp-S adv|in adp|for pron|they-Prs-Acc-P3 .
+%gra:	1|6|CC 2|6|ADVMOD 3|6|DISCOURSE 4|6|AUX 5|6|ADVMOD 6|0|ROOT 7|6|ADVMOD 8|9|CASE 9|6|OBL 10|6|PUNCT
+*PAR:	and just like let them talk . 197740_199022
+%mor:	cconj|and adv|just intj|like verb|let-Fin-Imp-S pron|they-Prs-Acc-P3 verb|talk-Inf-S .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|DISCOURSE 4|0|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+*INV:	great . 199986_200486
+%mor:	adj|great-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	those are all the questions I have for you today . 200527_202371
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 det|all-Def-Tot det|the-Def-Art noun|question-Plur pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 adp|for pron|you-Prs-Acc-S2 noun|today .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET-PREDET 4|5|DET 5|0|ROOT 6|7|NSUBJ 7|5|ACL-RELCL 8|9|CASE 9|7|OBL 10|7|OBL-UNMARKED 11|5|PUNCT
+*PAR:	thanks okay . 202472_203433
+%mor:	noun|thanks intj|okay .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|1|PUNCT
+@End

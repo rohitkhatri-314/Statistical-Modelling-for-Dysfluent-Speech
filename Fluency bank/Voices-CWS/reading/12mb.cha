@@ -1,0 +1,50 @@
+@UTF8
+@PID:	11312/a-00031859-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Voices-CWS|CHI|||||Target_Child|||
+@Media:	12mb, video
+@Comment:	was 312
+@Transcriber:	Ilana
+@Types:	cross, reading, CWS
+*CHI:	Harriet Tubman lived most of her life working to free her people . 2575_12903
+%mor:	propn|Harriet propn|Tubman verb|live-Fin-Ind-Past-S3 adj|most-Sup-S1 adp|of pron|her-Prs-Gen-S3 noun|life verb|work-Part-Pres-S part|to verb|free-Inf-S pron|her-Prs-Gen-S3 noun|person-Plur-Acc .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|0|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|4|NMOD 8|3|ADVCL 9|10|MARK 10|8|ADVCL 11|12|NMOD-POSS 12|10|OBJ 13|3|PUNCT
+*CHI:	as a young slave she ran away north . 14845_24197
+%mor:	adp|as det|a-Ind-Art adj|young-S1 noun|slave pron|she-Prs-Nom-S3 verb|run-Fin-Ind-Past-S3-irr adv|away adv|north .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|6|OBL 5|6|NSUBJ 6|0|ROOT 7|6|ADVMOD 8|6|ADVMOD 9|6|PUNCT
+*CHI:	but frequently she ran away north . 24118_28944
+%mor:	cconj|but adv|frequently pron|she-Prs-Nom-S3 verb|run-Fin-Ind-Past-S3-irr adv|away adv|north .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+*CHI:	but frequent [/] frequent [//] frequently returned to the south to help other slaves escape . 29525_44164
+%mor:	cconj|but adv|frequently verb|return-Fin-Ind-Past-S3 adp|to det|the-Def-Art noun|south part|to verb|help-Inf-S adj|other-S1 noun|slave-Plur-Acc verb|escape-Inf-S .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|MARK 8|3|ADVCL 9|10|AMOD 10|8|OBJ 11|8|XCOMP 12|3|PUNCT
+*CHI:	she became a famous leader of the underground railroad [/] railroad . 44605_49843
+%mor:	pron|she-Prs-Nom-S3 verb|become-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|famous-S1 noun|leader adp|of det|the-Def-Art adj|underground-S1 noun|railroad .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|DET 4|5|AMOD 5|2|XCOMP 6|9|CASE 7|9|DET 8|9|AMOD 9|5|NMOD 10|2|PUNCT
+*CHI:	<a secret> [/] a secret network of households that provided food shelter &-um and [/] and to runaway slaves . 56466_68304
+%mor:	det|a-Ind-Art adj|secret-S1 noun|network adp|of noun|household-Plur pron|that-Rel verb|provide-Fin-Ind-Past-P3 noun|food noun|shelter-Acc cconj|and adp|to verb|runaway-Inf-S noun|slave-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|0|ROOT 4|5|CASE 5|3|NMOD 6|7|NSUBJ 7|5|ACL-RELCL 8|9|COMPOUND 9|7|OBJ 10|13|CC 11|13|CASE 12|13|AMOD 13|9|CONJ 14|3|PUNCT
+*CHI:	Harriet led groups of slaves &-um from one point to another on the perilous journey north . 77456_98795
+%mor:	propn|Harriet verb|lead-Fin-Ind-Past-S3-irr noun|group-Plur-Acc adp|of noun|slave-Plur adp|from num|one noun|point adp|to det|another-Def-Ind adp|on det|the-Def-Art adj|perilous-S1 noun|journey noun|north .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|8|CASE 7|8|NUMMOD 8|2|OBL 9|10|CASE 10|2|OBL 11|15|CASE 12|15|DET 13|15|AMOD 14|15|COMPOUND 15|2|OBL 16|2|PUNCT
+*CHI:	they traveled only after nightfall . 99575_106919
+%mor:	pron|they-Prs-Nom-P3 verb|travel-Fin-Ind-Past-P3 adv|only adp|after noun|nightfall .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|5|ADVMOD 4|5|CASE 5|2|OBL 6|2|PUNCT
+*CHI:	hiding during the day in basements fields and forests . 107760_114264
+%mor:	verb|hide-Part-Pres-S adp|during det|the-Def-Art noun|day adp|in noun|basement-Plur noun|field-Plur cconj|and noun|forest-Plur .
+%gra:	1|0|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|7|CASE 6|7|COMPOUND 7|1|OBL 8|9|CC 9|7|CONJ 10|1|PUNCT
+*CHI:	Harriet was a master of tricks and disguises . 117275_126724
+%mor:	propn|Harriet aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|master adp|of noun|trick-Plur cconj|and noun|disguise-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|0|ROOT 5|6|CASE 6|4|NMOD 7|8|CC 8|6|CONJ 9|4|PUNCT
+*CHI:	and [/] and at one time a reward of forty thousand was offered for her capture . 127245_132469
+%mor:	cconj|and adp|at num|one noun|time det|a-Ind-Art noun|reward adp|of num|forty num|thousand aux|be-Fin-Ind-Past-S3-irr verb|offer-Part-Past-S adp|for pron|her-Prs-Gen-S3 noun|capture .
+%gra:	1|11|CC 2|4|CASE 3|4|NUMMOD 4|11|OBL 5|6|DET 6|11|NSUBJ-PASS 7|9|CASE 8|9|COMPOUND 9|6|NMOD 10|11|AUX-PASS 11|0|ROOT 12|14|CASE 13|14|NMOD-POSS 14|11|OBL 15|11|PUNCT
+*CHI:	her daring rescues helped [/] helped [/] helped hundreds of slaves escape [/] escape from [//] to freedom . 150305_163324
+%mor:	pron|her-Prs-Gen-S3 adj|dare-S1 noun|rescue-Plur verb|help-Fin-Ind-Past-P3 noun|hundred-Plur-Acc adp|of noun|slave-Plur verb|escape-Inf-S adp|to noun|freedom .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|XCOMP 9|10|CASE 10|8|OBL 11|4|PUNCT
+*CHI:	as [/] as she once said I never lost a passenger . 164625_170683
+%mor:	sconj|as pron|she-Prs-Nom-S3 adv|once verb|say-Fin-Ind-Past-S3-irr pron|I-Prs-Nom-S1 adv|never verb|lose-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|passenger-Acc .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|ADVMOD 4|7|ADVCL 5|7|NSUBJ 6|7|ADVMOD 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+@End
