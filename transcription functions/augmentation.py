@@ -1,7 +1,7 @@
 import random
 import re
 
-# Utility: choose a valid word index
+
 def choose_word(words):
     valid_indices = [i for i, w in enumerate(words) if w.isalpha() and len(w) > 2]
     return random.choice(valid_indices) if valid_indices else None
